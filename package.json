@@ -22,7 +22,7 @@
     "gatsby-remark-relative-images": "^2.0.2",
     "gatsby-source-filesystem": "^3.11.0",
     "gatsby-transformer-inline-svg": "^0.1.0",
-    "gatsby-transformer-remark": "^4.8.0",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^3.11.0",
     "gh-pages": "^3.2.3",
     "gsap": "^3.7.1",
